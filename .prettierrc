@@ -1,0 +1,11 @@
+{
+  "filepath": "c:\\Users\\biel_\\Desktop\\codes\\ignite-rocketseat\\Chapter 4\\upfi\\src\\pages\\index.tsx",
+  "parser": "typescript",
+  "useTabs": false,
+  "tabWidth": 2,
+  "endOfLine": "lf",
+  "singleQuote": true,
+  "JSXSingleQuote": true,
+  "tralingComma": "all",
+  "arrowParens": "avoid"
+}
